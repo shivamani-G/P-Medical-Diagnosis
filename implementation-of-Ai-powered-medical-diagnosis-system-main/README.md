@@ -1,6 +1,4 @@
-![WhatsApp Image 2025-03-23 at 6 29 02 PM](https://github.com/user-attachments/assets/965d38ab-c048-41c1-bc40-fdc62ac5dcdb)![WhatsApp Image 2025-03-23 at 6 29 02 PM](https://github.com/user-attachments/assets/c7e5565e-c30a-4e58-8a59-e93c3ae5fda8)![WhatsApp Image 2025-03-23 at 6 29 25 PM](https://github.com/user-attachments/assets/e2af801e-3291-4e16-ae05-906a6fa3b451) AI-Powered Medical Diagnosis
 
-![AI Healthcare](https://cdn.analyticsvidhya.com/wp-content/uploads/2022/01/30738medtec-futuristic-650-672c56a896ab7.webp)
 
  🚀 Overview
 This project is an **AI-powered medical diagnosis system** that predicts multiple diseases using machine learning models. The diseases covered include:
